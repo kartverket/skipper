@@ -8,7 +8,7 @@ require (
 	github.com/manifoldco/promptui v0.9.0
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/viper v1.17.0
-	k8s.io/apimachinery v0.28.3
+	k8s.io/apimachinery v0.28.4
 	sigs.k8s.io/yaml v1.4.0
 )
 
