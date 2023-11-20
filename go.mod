@@ -8,7 +8,7 @@ require (
 	github.com/manifoldco/promptui v0.9.0
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/viper v1.17.0
-	k8s.io/apimachinery v0.28.3
+	k8s.io/apimachinery v0.28.4
 	sigs.k8s.io/yaml v1.4.0
 )
 
@@ -133,8 +133,8 @@ require (
 	gopkg.in/square/go-jose.v2 v2.6.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
-	k8s.io/api v0.28.3 // indirect
-	k8s.io/client-go v0.28.3
+	k8s.io/api v0.28.4 // indirect
+	k8s.io/client-go v0.28.4
 	k8s.io/klog/v2 v2.100.1 // indirect
 	k8s.io/utils v0.0.0-20230726121419-3b25d923346b // indirect
 	sigs.k8s.io/controller-runtime v0.16.3 // indirect
